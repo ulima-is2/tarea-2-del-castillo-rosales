@@ -63,7 +63,7 @@ class CineStark:
 
 
 def main():
-    terminado = False;
+    terminado = False
     while not terminado:
         print('Ingrese la opción que desea realizar')
         print('(1) Listar cines')
