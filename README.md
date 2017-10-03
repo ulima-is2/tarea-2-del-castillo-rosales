@@ -1,5 +1,5 @@
 ## Pregunta 1
-  En el archivo **Pregunta1.txt**. 
+  En el archivo **Pregunta-1.txt**. 
 ## Pregunta 2
   En el archivo **patrones.py**. 
 ## Pregunta 3
